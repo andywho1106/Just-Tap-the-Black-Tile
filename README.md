@@ -12,7 +12,7 @@
   * 遊戲主體
 
 ## 檔案介紹
-> 每個檔案都是module，各代表一個視窗，全部import進只踩黑塊兒.py
+> 每個檔.py案都是module，各代表一個視窗，全部import進只踩黑塊兒.py
 
 `只踩黑塊兒.py (top entity)`
 * 即mianmenu，主要使用PyQt5寫成。按下create可以前往編曲介面、play前往遊戲，按下其他區塊會有隨機的音樂播出。
@@ -38,5 +38,10 @@
 `game.py`
 * 即遊戲主體，主要使用PyGame寫成。
 
+`sound (folder)`
+* 遊戲中的音檔們。
+
+`image (folder)`
+* 各介面的圖片檔。
 
 
