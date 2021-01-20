@@ -1,3 +1,0 @@
-A6,-,B6,C7,A6,-,B6,C7,A6,-,B6,C7,B6,C7,A6,-,B6,-,B6,C7,A6,-,B6,C7,A6,-,B6,C7,B6,C7,A6,-,A6,-,C7,D7,A6,-,C7,D7,A6,-,C7,D7,C7,D7,A6,-,G7,E7,D7,C7,-,-,G7,E7,D7,C7,-,-,C7,D7,E7,G7
-F,F,Dm,Dm,Am,Am,G,C
-kick,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,snare,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,snare,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,kick,hihat,snare,hihat,kick,kick,snare,kick,hihat,kick,snare,hihat,kick,kick,snare,kick,hihat,kick,snare,hihat
