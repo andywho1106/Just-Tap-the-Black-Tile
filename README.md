@@ -1,7 +1,7 @@
 # python_final_project: Just Tap The Black Tile 
 
 ## code 執行
-`執行「只踩黑塊兒.py」`
+執行「只踩黑塊兒.py」
 
 ## 遊戲結構
 * **MainMenu**
