@@ -1,7 +1,8 @@
 # python_final_project: Just Tap The Black Tile 
 
 ## code 執行
-執行「只踩黑塊兒.py」\n
+執行「只踩黑塊兒.py」
+
 請將解析度調整成1920x1080、windows縮放與版面配置的「變更文字、應用程式與其他項目大小」調整成125%
 
 ## 遊戲結構
