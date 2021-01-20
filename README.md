@@ -15,7 +15,7 @@
 > 每個檔.py案都是module，各代表一個視窗，全部import進只踩黑塊兒.py
 
 `只踩黑塊兒.py (top entity)`
-* 即mianmenu，主要使用PyQt5寫成。按下create可以前往編曲介面、play前往遊戲，按下其他區塊會有隨機的音樂播出。
+* 即mainmenu，主要使用PyQt5寫成。按下create可以前往編曲介面、play前往遊戲，按下其他區塊會有隨機的音樂播出。
 
 `images.py`
 * 各介面背景圖片的圖檔。
