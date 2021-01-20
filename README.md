@@ -44,4 +44,7 @@
 `image (folder)`
 * 各介面的圖片檔。
 
+## How to Play?
+### 編曲(create)
+#### edit
 
