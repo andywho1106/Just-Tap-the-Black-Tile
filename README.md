@@ -47,4 +47,8 @@
 ## How to Play?
 ### 編曲(create)
 #### edit
-
+每個edit代表一個小節，drum與piano的edit介面中每個選單代表一個八分音符的音，chord的edit介面中的選單代表該小節的和絃
+#### preview
+試聽目前編曲的成果
+#### export
+輸出完成的曲子，並輸入檔名，ex:"mysong"，
