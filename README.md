@@ -15,6 +15,28 @@
 > 每個檔案都是module，各代表一個視窗，全部import進只踩黑塊兒.py
 
 `只踩黑塊兒.py (top entity)`
-* 即mianmenu，主要使用PyQt5寫成。按下create可以前往編曲介面、play前往遊戲，按下其他區塊會有隨機的音樂播出
+* 即mianmenu，主要使用PyQt5寫成。按下create可以前往編曲介面、play前往遊戲，按下其他區塊會有隨機的音樂播出。
+
+`images.py`
+* 各介面背景圖片的圖檔。
+
 `mainwindow.py `
 * 即編曲介面，主要使用PyQt5寫成。
+
+`filename.py `
+* 即export功能，主要使用PyQt5寫成。
+
+`import_list.py `
+* 即import功能，主要使用PyQt5寫成。
+
+`chord.py, drum.py, piano.py`
+* 分別為chord, drum, piano的編輯介面，主要使用PyQt5寫成。
+
+`messagebox.py`
+* 各介面的彈出式訊息視窗，主要使用PyQt5寫成。
+
+`game.py`
+* 即遊戲主體，主要使用PyGame寫成。
+
+
+
